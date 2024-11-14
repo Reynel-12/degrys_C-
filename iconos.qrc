@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>4213418_archive_documents_file_folder_office_icon.png</file>
+        <file>4831032_door_entrance_exit_leave_logout_icon.png</file>
+        <file>8674989_ic_fluent_history_regular_icon.png</file>
+        <file>Iconos/Tienda.png</file>
+        <file>Iconos/flecha-hacia-abajo.png</file>
+        <file>Iconos/loading.gif</file>
+    </qresource>
+</RCC>
